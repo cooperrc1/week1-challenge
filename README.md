@@ -1,1 +1,1 @@
-# Code Refactor Starter Code
+Cooper Cutbirth's week one challenge.
